@@ -40,6 +40,11 @@ $(function()
     name: "Chúng Ta Dừng Lại Ở Đây Thôi",
     url: "https://docs.google.com/uc?export=download&id=1sCCIGG-lWUkibZg8SeUYBkp6mvGfF655",
     picture: "https://avatar-nct.nixcdn.com/song/2019/09/26/a/a/9/f/1569463314685_640.jpg"
+}, {
+    artist: "Dình Dũng",
+    name: "Sai Lầm Của Anh",
+    url: "https://docs.google.com/uc?export=download&id=1rxfB1BUGYbInBzBoqeBMwvILYBJOS-R-",
+    picture: "https://avatar-nct.nixcdn.com/song/2019/10/21/4/6/1/e/1571623691373_640.jpg"
 }];
 	
 	function shuffle(a) {
