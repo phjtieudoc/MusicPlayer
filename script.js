@@ -21,10 +21,10 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
+		artist: "Noo Phước Thịnh",
+		name: "Chạm Khé Anh Thêm Một Chút Thôi",
 		url: "Musics/NeuAnhDi.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "https://photo-zmp3.zadn.vn/covers/6/e/6e7b90d96728c9ce1b4c2a104d622784_1507799020.jpg"
 	}];
 	
 	function shuffle(a) {
