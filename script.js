@@ -23,7 +23,7 @@ $(function()
 	var songs = [{
 		artist: "Noo Phước Thịnh",
 		name: "Chạm Khé Anh Thêm Một Chút Thôi",
-		url: "https://direct.gdrive.vip/1Ecg3BZ1CItVsfusAnykh1MfaML4SNhT-",
+		url: "https://docs.google.com/uc?export=download&id=1Ecg3BZ1CItVsfusAnykh1MfaML4SNhT-",
 		picture: "https://photo-zmp3.zadn.vn/covers/6/e/6e7b90d96728c9ce1b4c2a104d622784_1507799020.jpg"
 	}];
 	
