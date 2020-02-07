@@ -25,7 +25,12 @@ $(function()
 		name: "Lắng Nghe Nước Mắt",
 		url: "https://docs.google.com/uc?export=download&id=1Ecg3BZ1CItVsfusAnykh1MfaML4SNhT-",
 		picture: "https://avatar-nct.nixcdn.com/song/2018/05/06/5/1/b/4/1525584753612_640.jpg"
-	}];
+	}, {
+    artist: "Hà Anh Tuấn",
+    name: "Tháng Tư Là Lời Nói Dối Của Em",
+    url: "https://docs.google.com/uc?export=download&id=1D8e6YTLNHDEooxq_VbxP3vScyOcm8QHm",
+    picture: "https://avatar-nct.nixcdn.com/song/2017/09/22/1/a/3/6/1506063956390_640.jpg"
+}];
 	
 	function shuffle(a) {
 		var j, x, i;
