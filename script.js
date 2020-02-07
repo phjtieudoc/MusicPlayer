@@ -21,10 +21,10 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Noo Phước Thịnh",
-		name: "Chạm Khé Anh Thêm Một Chút Thôi",
+		artist: "Mr.Siro",
+		name: "Lắng Nghe Nước Mắt",
 		url: "https://docs.google.com/uc?export=download&id=1Ecg3BZ1CItVsfusAnykh1MfaML4SNhT-",
-		picture: "https://photo-zmp3.zadn.vn/covers/6/e/6e7b90d96728c9ce1b4c2a104d622784_1507799020.jpg"
+		picture: "https://avatar-nct.nixcdn.com/song/2018/05/06/5/1/b/4/1525584753612_640.jpg"
 	}];
 	
 	function shuffle(a) {
