@@ -41,6 +41,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1sCCIGG-lWUkibZg8SeUYBkp6mvGfF655",
     picture: "https://avatar-nct.nixcdn.com/song/2019/09/26/a/a/9/f/1569463314685_640.jpg"
 }, {
+    artist: "Soobin Hoàng Sơn",
+    name: "Yêu Thương Ngày Đó",
+    url: "https://docs.google.com/uc?export=download&id=1INJlKojJxuZB0Q7aRkMV42Pcy_NsRioj",
+    picture: "https://photo-zmp3.zadn.vn/cover/d/0/b/8/d0b8df07498b8f0549eed787569efba6.jpg"
+}, {
     artist: "Dình Dũng",
     name: "Sai Lầm Của Anh",
     url: "https://docs.google.com/uc?export=download&id=1rxfB1BUGYbInBzBoqeBMwvILYBJOS-R-",
