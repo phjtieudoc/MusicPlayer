@@ -51,6 +51,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1dHf8OzTl1PHwCVk6CJwxPWus_RV-14YR",
     picture: "https://data.chiasenhac.com/data/cover/72/71073.jpg"
 }, {
+    artist: "Mr.Siro",
+    name: "Đừng Rời Xa Anh",
+    url: "https://docs.google.com/uc?export=download&id=1EVMomTHHEsDb6mRH3NUzROg2JAyWPyUl",
+    picture: "https://data.chiasenhac.com/data/cover/68/67050.jpg"
+}, {
     artist: "Vương Anh Tú",
     name: "Anh Sẽ Ổn Thôi",
     url: "https://docs.google.com/uc?export=download&id=1yNBdRY7Yn6-_n1lQEN3DIhE1yUwbVHi4",
