@@ -46,6 +46,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1INJlKojJxuZB0Q7aRkMV42Pcy_NsRioj",
     picture: "https://photo-zmp3.zadn.vn/cover/d/0/b/8/d0b8df07498b8f0549eed787569efba6.jpg"
 }, {
+    artist: "Vương Anh Tú",
+    name: "Anh Sẽ Ổn Thôi",
+    url: "https://docs.google.com/uc?export=download&id=1yNBdRY7Yn6-_n1lQEN3DIhE1yUwbVHi4",
+    picture: "https://photo-zmp3.zadn.vn/covers/7/8/78822d9ca7bae4240a7f9048e776dc4e_1474520373.jpg"
+},{
     artist: "Lương Gia Hùng",
     name: "Cô Đơn Sẽ Tốt Hơn",
     url: "https://docs.google.com/uc?export=download&id=18B074pWzzgVhbpCnjPYdx37k53-YeAhl",
