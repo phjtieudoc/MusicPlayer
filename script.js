@@ -41,6 +41,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1sCCIGG-lWUkibZg8SeUYBkp6mvGfF655",
     picture: "https://avatar-nct.nixcdn.com/song/2019/09/26/a/a/9/f/1569463314685_640.jpg"
 }, {
+    artist: "Thanh Hưng",
+    name: "Sai Người Sai Thời Điểm",
+    url: "https://docs.google.com/uc?export=download&id=1Y3AdWH6PyKZ5ODwjr1XbaQgGvXQP0PEw",
+    picture: "https://data.chiasenhac.com/data/cover/89/88857.jpg"
+}, {
     artist: "Soobin Hoàng Sơn",
     name: "Yêu Thương Ngày Đó",
     url: "https://docs.google.com/uc?export=download&id=1INJlKojJxuZB0Q7aRkMV42Pcy_NsRioj",
