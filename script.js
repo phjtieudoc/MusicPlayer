@@ -61,6 +61,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1_qYzpWclu5XLMAE4PynQZ320wbFVvyJa",
     picture: "https://data.chiasenhac.com/data/cover/71/70389.jpg"
 }, {
+    artist: "Hồ Phong An",
+    name: "Giá Như Anh Là Người Vô Tâm",
+    url: "https://docs.google.com/uc?export=download&id=19OQl77m_eOLJejlqrRY0-eZa0qARJtUD",
+    picture: "https://data.chiasenhac.com/data/cover/94/93072.jpg"
+}, {
     artist: "Vương Anh Tú",
     name: "Anh Biết Anh Sai Rồi",
     url: "https://docs.google.com/uc?export=download&id=1dHf8OzTl1PHwCVk6CJwxPWus_RV-14YR",
