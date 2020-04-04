@@ -46,6 +46,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1INJlKojJxuZB0Q7aRkMV42Pcy_NsRioj",
     picture: "https://photo-zmp3.zadn.vn/cover/d/0/b/8/d0b8df07498b8f0549eed787569efba6.jpg"
 }, {
+    artist: "Trung Quân",
+    name: "Cánh Đồng Yêu Thương",
+    url: "https://docs.google.com/uc?export=download&id=1_qYzpWclu5XLMAE4PynQZ320wbFVvyJa",
+    picture: "https://data.chiasenhac.com/data/cover/71/70389.jpg"
+}, {
     artist: "Vương Anh Tú",
     name: "Anh Biết Anh Sai Rồi",
     url: "https://docs.google.com/uc?export=download&id=1dHf8OzTl1PHwCVk6CJwxPWus_RV-14YR",
