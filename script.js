@@ -36,6 +36,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1emYz8dFA0a0AwtVZGiMqk9_LV9USvEC8",
     picture: "https://photo-zmp3.zadn.vn/covers/0/4/047305f465f0aa64c22ed49787b02548_1510199251.jpg"
 }, {
+    artist: "JayKii",
+    name: "Sao Em Nỡ",
+    url: "https://docs.google.com/uc?export=download&id=1Yc_IIps7kjGtv3TYDhc9uTne-blEPF3Y",
+    picture: "https://data.chiasenhac.com/data/cover/90/89895.jpg"
+}, {
     artist: "Nguyễn Đình Vũ",
     name: "Chúng Ta Dừng Lại Ở Đây Thôi",
     url: "https://docs.google.com/uc?export=download&id=1sCCIGG-lWUkibZg8SeUYBkp6mvGfF655",
